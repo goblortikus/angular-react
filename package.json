@@ -1,0 +1,27 @@
+{
+  "name": "angular-react",
+  "version": "0.1.0",
+  "description": "AngularJS with React",
+  "main": "angular-react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goblortikus/angular-react"
+  },
+  "keywords": [
+    "angular",
+    "react",
+    "angular-react",
+    "ng-react",
+    "ngreact",
+    "angularjs"
+  ],
+  "author": "Monir Mamoun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goblortikus/angular-react/issues"
+  },
+  "homepage": "https://github.com/goblortikus/angular-react"
+}
